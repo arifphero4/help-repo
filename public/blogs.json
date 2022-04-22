@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Q.1: Difference between authorization and authentication?",
+    "description": "Authentication and Authorization area unit utilized in respect of knowledge security that permits the safety of an automatic data system. Each area unit terribly crucial topics usually related to the online as key items of its service infrastructure. However, each of the terms area unit terribly completely different with altogether different ideas. whereas it is true that they are usually employed in an equivalent context with an equivalent tool, they are utterly distinct from one another."
+  },
+  {
+    "title": "Q.2: Why are you using firebase? What other options do you have to implement authentication?",
+    "description": " Implementing Firebase means plugging a ready-made backend into your client code to make it dynamic. Ultimately, it eliminates the need to write backend code from scratch and gives you a fully functional one instead. Other ways to authenticate can be through cards, retina scans, voice recognition, and fingerprints."
+  },
+  {
+    "title": "Q.3: What other services does firebase provide other than authentication?",
+    "description": "There are many services which Firebase provides, Most useful of them are Cloud Firestore, and Cloud Functions, Authentication, Hosting, Cloud Storage, Google Analytics, Predictions, Cloud Messaging."
+  }
+]

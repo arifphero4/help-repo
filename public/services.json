@@ -1,0 +1,35 @@
+[
+    {
+        "key": 1,
+        "img": "https://zingy-crumble-89d2f9.netlify.app/photos/74504-jumping-squats.gif",
+        "title": "Daily Package",
+        "description": "Advanced Personal Trainer Diploma Certification is Delivered Through Blended Learning, Combining Home Study that Utilizes our award Winning E-Learning Software followed by 2 Weeks of Practical Coaching & Assessment ",
+        "price": 7,
+        "review": 3.9 
+       
+      },
+
+
+    {
+        "key": 2,
+        "img": "https://zingy-crumble-89d2f9.netlify.app/photos/76478-seated-dumbbell-bicep-curl.gif",
+        "title": "Weekly Package",
+        "description": "Providers that mass produce fitness trainers on a production line, we only enrol small groups of students into our courses to ensure you receive the highest level of coaching and support.",
+        "price": 13,
+        "review": 4.7
+
+       
+      },
+
+    {
+        "key": 3,
+        "img": "https://zingy-crumble-89d2f9.netlify.app/photos/85930-jumping-jack.gif",
+        "title": "Monthly Package",
+        "description": "During your time with The Dangerously Fit Academy, the amount of support and coaching you'll receive will be unrivalled by any other Yerevan personal training certification. ",
+        "price": 28,
+        "review": 4.2
+       
+      }
+
+   
+]
